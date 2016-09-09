@@ -13,3 +13,7 @@ PDF Table Extraction Utility. Analyses a page in a PDF looking for well delineat
 ### PDF References and Resources:  
 [Manipulating PDFs with Python](https://www.binpress.com/tutorial/manipulating-pdfs-with-python/167)  
 
+## Tabular Data  
+  
+### Tabular Data Toolkit:  
+[GoodTables - Validate and Process Tabular Data in Python](https://github.com/frictionlessdata/goodtables)  
